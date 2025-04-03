@@ -1,0 +1,660 @@
+[
+    {
+        "country": "PK",
+        "name": "Arifwala",
+        "lat": "30.29058",
+        "lng": "73.06574",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Badin",
+        "lat": "24.656",
+        "lng": "68.837",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bannu",
+        "lat": "32.98527",
+        "lng": "70.60403",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Bhalwal",
+        "lat": "32.26576",
+        "lng": "72.89809",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bhera",
+        "lat": "32.48206",
+        "lng": "72.90865",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bhimbar",
+        "lat": "32.97465",
+        "lng": "74.07846",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Chak Five Hundred Seventy-five",
+        "lat": "31.54514",
+        "lng": "73.82891",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chak One Hundred Twenty Nine Left",
+        "lat": "30.42919",
+        "lng": "73.04522",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chak Thirty-one -Eleven Left",
+        "lat": "30.42388",
+        "lng": "72.69737",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chak Two Hundred Forty-nine Thal Development Authority",
+        "lat": "31.17772",
+        "lng": "71.2048",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chichawatni",
+        "lat": "30.5301",
+        "lng": "72.69155",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chaman",
+        "lat": "30.91769",
+        "lng": "66.45259",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Chunian",
+        "lat": "30.96621",
+        "lng": "73.97908",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Daulatpur",
+        "lat": "26.50158",
+        "lng": "67.97079",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Dera Allahyar",
+        "lat": "28.37353",
+        "lng": "68.35078",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Dera Murad Jamali",
+        "lat": "28.54657",
+        "lng": "68.22308",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Dhaunkal",
+        "lat": "32.40613",
+        "lng": "74.13706",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Digri",
+        "lat": "25.15657",
+        "lng": "69.11098",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Dunyapur",
+        "lat": "29.80275",
+        "lng": "71.74344",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Gadani",
+        "lat": "25.11853",
+        "lng": "66.72985",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Gharo",
+        "lat": "24.74182",
+        "lng": "67.58534",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Ghauspur",
+        "lat": "28.13882",
+        "lng": "69.08245",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Gojra",
+        "lat": "31.14926",
+        "lng": "72.68323",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Hafizabad",
+        "lat": "32.07095",
+        "lng": "73.68802",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Hala",
+        "lat": "25.81459",
+        "lng": "68.42198",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Jalalpur Jattan",
+        "lat": "32.64118",
+        "lng": "74.20561",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jampur",
+        "lat": "29.64235",
+        "lng": "70.59518",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jaranwala",
+        "lat": "31.3332",
+        "lng": "73.41868",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jhang Sadr",
+        "lat": "31.26981",
+        "lng": "72.31687",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jhol",
+        "lat": "25.95533",
+        "lng": "68.88871",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kahna Nau",
+        "lat": "31.36709",
+        "lng": "74.36899",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kalabagh",
+        "lat": "32.96164",
+        "lng": "71.54638",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kallar Kahar",
+        "lat": "32.77998",
+        "lng": "72.69793",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kamalia",
+        "lat": "30.72708",
+        "lng": "72.64607",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kamoke",
+        "lat": "31.97526",
+        "lng": "74.22304",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kandhkot",
+        "lat": "28.24574",
+        "lng": "69.17974",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kandiaro",
+        "lat": "27.05918",
+        "lng": "68.21022",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Karak",
+        "lat": "33.11633",
+        "lng": "71.09354",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Khairpur Mir\u2019s",
+        "lat": "27.52948",
+        "lng": "68.75915",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Khairpur Nathan Shah",
+        "lat": "27.09064",
+        "lng": "67.73489",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Khanewal",
+        "lat": "30.30173",
+        "lng": "71.93212",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Addu",
+        "lat": "30.46907",
+        "lng": "70.96699",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kotli Loharan",
+        "lat": "32.58893",
+        "lng": "74.49466",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kundian",
+        "lat": "32.45775",
+        "lng": "71.47892",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Ladhewala Waraich",
+        "lat": "32.15692",
+        "lng": "74.11564",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Lakki",
+        "lat": "32.60724",
+        "lng": "70.91234",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Lalian",
+        "lat": "31.82462",
+        "lng": "72.80116",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mailsi",
+        "lat": "29.80123",
+        "lng": "72.17398",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Malir Cantonment",
+        "lat": "24.94343",
+        "lng": "67.20591",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Mananwala",
+        "lat": "31.58803",
+        "lng": "73.68927",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Matiari",
+        "lat": "25.59709",
+        "lng": "68.4467",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Matli",
+        "lat": "25.0429",
+        "lng": "68.65591",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Mehrabpur",
+        "lat": "28.10773",
+        "lng": "68.02554",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Mirpur Bhtoro",
+        "lat": "24.72852",
+        "lng": "68.2601",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Mirpur Sakro",
+        "lat": "24.54692",
+        "lng": "67.62797",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Moro",
+        "lat": "26.66317",
+        "lng": "68.00016",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Muridke",
+        "lat": "31.80258",
+        "lng": "74.25772",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Nankana Sahib",
+        "lat": "31.4501",
+        "lng": "73.70653",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Narowal",
+        "lat": "32.10197",
+        "lng": "74.87303",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Nasirabad",
+        "lat": "27.38137",
+        "lng": "67.91644",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Naudero",
+        "lat": "27.66684",
+        "lng": "68.3609",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Nowshera Cantonment",
+        "lat": "33.99829",
+        "lng": "71.99834",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Pakpattan",
+        "lat": "30.34314",
+        "lng": "73.38944",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Pano Aqil",
+        "lat": "27.85619",
+        "lng": "69.11111",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Pattoki",
+        "lat": "31.02021",
+        "lng": "73.85333",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Pindi Bhattian",
+        "lat": "31.89844",
+        "lng": "73.27339",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Raiwind",
+        "lat": "31.24895",
+        "lng": "74.21534",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Raja Jang",
+        "lat": "31.22078",
+        "lng": "74.25483",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Ranipur",
+        "lat": "27.2872",
+        "lng": "68.50623",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Rohri",
+        "lat": "27.69203",
+        "lng": "68.89503",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Sangla Hill",
+        "lat": "31.71667",
+        "lng": "73.38333",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Sanjwal",
+        "lat": "33.76105",
+        "lng": "72.43315",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shahdadpur",
+        "lat": "25.92539",
+        "lng": "68.6228",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Shahkot",
+        "lat": "31.5709",
+        "lng": "73.48531",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shahpur Chakar",
+        "lat": "26.15411",
+        "lng": "68.65013",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Shakargarh",
+        "lat": "32.26361",
+        "lng": "75.16008",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Sharqpur Sharif",
+        "lat": "31.46116",
+        "lng": "74.10091",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shekhupura",
+        "lat": "31.71287",
+        "lng": "73.98556",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shorkot",
+        "lat": "31.91023",
+        "lng": "70.87757",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Shujaabad",
+        "lat": "29.88092",
+        "lng": "71.29344",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Sodhri",
+        "lat": "32.46211",
+        "lng": "74.18207",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Talhar",
+        "lat": "24.88454",
+        "lng": "68.81437",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Tandlianwala",
+        "lat": "31.03359",
+        "lng": "73.13268",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Tando Allahyar",
+        "lat": "25.4605",
+        "lng": "68.71745",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Tando Jam",
+        "lat": "25.42813",
+        "lng": "68.52923",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Tando Mitha Khan",
+        "lat": "25.99625",
+        "lng": "69.20251",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Tank",
+        "lat": "32.21707",
+        "lng": "70.38315",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Ubauro",
+        "lat": "28.16429",
+        "lng": "69.73114",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Umarkot",
+        "lat": "25.36329",
+        "lng": "69.74184",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Usta Muhammad",
+        "lat": "28.17723",
+        "lng": "68.04367",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Uthal",
+        "lat": "25.80722",
+        "lng": "66.62194",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Gwadar",
+        "lat": "25.12163",
+        "lng": "62.32541",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Zafarwal",
+        "lat": "32.34464",
+        "lng": "74.8999",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Zhob",
+        "lat": "31.34082",
+        "lng": "69.4493",
+        "state": "Balochistan"
+    }
+]

@@ -1,0 +1,1752 @@
+[
+    {
+        "country": "PK",
+        "name": "Adilpur",
+        "lat": "27.93677",
+        "lng": "69.31941",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Ahmadpur East",
+        "lat": "29.14269",
+        "lng": "71.25771",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Ahmadpur Sial",
+        "lat": "30.67791",
+        "lng": "71.74344",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Akora",
+        "lat": "34.00337",
+        "lng": "72.12561",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Aliabad",
+        "lat": "36.30703",
+        "lng": "74.61545",
+        "state": "Gilgit Baltistan"
+    },
+    {
+        "country": "PK",
+        "name": "Alik Ghund",
+        "lat": "30.48976",
+        "lng": "67.52177",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Alizai",
+        "lat": "33.53613",
+        "lng": "70.34607",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Alpurai",
+        "lat": "34.92039",
+        "lng": "72.63265",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Aman Garh",
+        "lat": "34.00584",
+        "lng": "71.92971",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Amirabad",
+        "lat": "34.18729",
+        "lng": "73.09078",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Ashanagro Koto",
+        "lat": "34.10773",
+        "lng": "72.24517",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Athmuqam",
+        "lat": "34.57173",
+        "lng": "73.89724",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Awaran",
+        "lat": "26.45677",
+        "lng": "65.23144",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Baddomalhi",
+        "lat": "31.99042",
+        "lng": "74.6641",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Baffa",
+        "lat": "34.4377",
+        "lng": "73.22368",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Bagarji",
+        "lat": "27.75431",
+        "lng": "68.75866",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bagh",
+        "lat": "33.98111",
+        "lng": "73.77608",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Bahawalnagar",
+        "lat": "29.99835",
+        "lng": "73.25272",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bahawalnagar",
+        "lat": "30.55083",
+        "lng": "73.39083",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bakhri Ahmad Khan",
+        "lat": "30.73586",
+        "lng": "70.83796",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bandhi",
+        "lat": "26.58761",
+        "lng": "68.30215",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Barishal",
+        "lat": "36.32162",
+        "lng": "74.69502",
+        "state": "Gilgit Baltistan"
+    },
+    {
+        "country": "PK",
+        "name": "Barkhan",
+        "lat": "29.89773",
+        "lng": "69.52558",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Basirpur",
+        "lat": "30.57759",
+        "lng": "73.83912",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Basti Dosa",
+        "lat": "30.78769",
+        "lng": "70.86853",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bat Khela",
+        "lat": "34.6178",
+        "lng": "71.97247",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Battagram",
+        "lat": "34.67719",
+        "lng": "73.02329",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Begowala",
+        "lat": "32.43816",
+        "lng": "74.26794",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bela",
+        "lat": "26.22718",
+        "lng": "66.31178",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Berani",
+        "lat": "25.78497",
+        "lng": "68.80754",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bhag",
+        "lat": "29.04174",
+        "lng": "67.82394",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Bhan",
+        "lat": "26.55831",
+        "lng": "67.72139",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bhawana",
+        "lat": "31.56884",
+        "lng": "72.64917",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bhiria",
+        "lat": "26.91041",
+        "lng": "68.19466",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bhit Shah",
+        "lat": "25.80565",
+        "lng": "68.49143",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bhopalwala",
+        "lat": "32.42968",
+        "lng": "74.3635",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Bozdar Wada",
+        "lat": "27.183",
+        "lng": "68.6358",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Bulri",
+        "lat": "24.86667",
+        "lng": "68.33333",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "B\u016brew\u0101la",
+        "lat": "30.16667",
+        "lng": "72.65",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chak",
+        "lat": "27.85838",
+        "lng": "68.83378",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Chak Azam Sahu",
+        "lat": "30.75202",
+        "lng": "73.02834",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chak Jhumra",
+        "lat": "31.56808",
+        "lng": "73.18317",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chamber",
+        "lat": "25.29362",
+        "lng": "68.81176",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Chenab Nagar",
+        "lat": "31.75511",
+        "lng": "72.91403",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Cherat Cantonement",
+        "lat": "33.82342",
+        "lng": "71.89292",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Chhor",
+        "lat": "25.5126",
+        "lng": "69.78437",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Chishtian",
+        "lat": "29.79713",
+        "lng": "72.85772",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chitral",
+        "lat": "35.8518",
+        "lng": "71.78636",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Choa Saidan Shah",
+        "lat": "32.71962",
+        "lng": "72.98625",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chowki Jamali",
+        "lat": "28.01944",
+        "lng": "67.92083",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Chuchar-kana Mandi",
+        "lat": "31.75",
+        "lng": "73.8",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Chuhar Jamali",
+        "lat": "24.3944",
+        "lng": "67.99298",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Dadhar",
+        "lat": "29.47489",
+        "lng": "67.65167",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Daggar",
+        "lat": "34.51106",
+        "lng": "72.48438",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Daira Din Panah",
+        "lat": "30.57053",
+        "lng": "70.93722",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dajal",
+        "lat": "29.55769",
+        "lng": "70.37614",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dalbandin",
+        "lat": "28.88846",
+        "lng": "64.40616",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Dandot RS",
+        "lat": "32.64167",
+        "lng": "72.975",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Daromehar",
+        "lat": "24.79382",
+        "lng": "68.17978",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Darya Khan Marri",
+        "lat": "26.67765",
+        "lng": "68.28666",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Daska Kalan",
+        "lat": "32.32422",
+        "lng": "74.35039",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dasu",
+        "lat": "35.29169",
+        "lng": "73.2906",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Daultala",
+        "lat": "33.19282",
+        "lng": "73.14099",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Daur",
+        "lat": "26.45528",
+        "lng": "68.31835",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Dera Bugti",
+        "lat": "29.03619",
+        "lng": "69.15849",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Dhanot",
+        "lat": "29.57991",
+        "lng": "71.75213",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dhoro Naro",
+        "lat": "25.50484",
+        "lng": "69.5709",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Dijkot",
+        "lat": "31.21735",
+        "lng": "72.99621",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dinan Bashnoian Wala",
+        "lat": "29.76584",
+        "lng": "73.26557",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Dipalpur",
+        "lat": "30.66984",
+        "lng": "73.65306",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Diplo",
+        "lat": "24.46688",
+        "lng": "69.58114",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Doaba",
+        "lat": "33.4245",
+        "lng": "70.73676",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Dokri",
+        "lat": "27.37421",
+        "lng": "68.09715",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Duki",
+        "lat": "30.15307",
+        "lng": "68.57323",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Eidgah",
+        "lat": "35.34712",
+        "lng": "74.85632",
+        "state": "Gilgit Baltistan"
+    },
+    {
+        "country": "PK",
+        "name": "Eminabad",
+        "lat": "32.04237",
+        "lng": "74.25996",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Faqirwali",
+        "lat": "29.46799",
+        "lng": "73.03489",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Faruka",
+        "lat": "31.88642",
+        "lng": "72.41362",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Fazilpur",
+        "lat": "32.17629",
+        "lng": "75.06583",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Fort Abbas",
+        "lat": "29.19344",
+        "lng": "72.85525",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Gakuch",
+        "lat": "36.17683",
+        "lng": "73.76383",
+        "state": "Gilgit Baltistan"
+    },
+    {
+        "country": "PK",
+        "name": "Gambat",
+        "lat": "27.3517",
+        "lng": "68.5215",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Gandava",
+        "lat": "28.61321",
+        "lng": "67.48564",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Garh Maharaja",
+        "lat": "30.83383",
+        "lng": "71.90491",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Garhi Khairo",
+        "lat": "28.06029",
+        "lng": "67.98033",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Garhiyasin",
+        "lat": "27.90631",
+        "lng": "68.5121",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Goth Garelo",
+        "lat": "27.43521",
+        "lng": "68.07572",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Goth Phulji",
+        "lat": "26.88099",
+        "lng": "67.68239",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Goth Radhan",
+        "lat": "27.19846",
+        "lng": "67.95348",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Gujar Khan",
+        "lat": "33.25411",
+        "lng": "73.30433",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Gulishah Kach",
+        "lat": "32.67087",
+        "lng": "70.33917",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Hangu",
+        "lat": "33.53198",
+        "lng": "71.0595",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Harnai",
+        "lat": "30.10077",
+        "lng": "67.93824",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Harnoli",
+        "lat": "32.27871",
+        "lng": "71.55429",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Harunabad",
+        "lat": "29.61206",
+        "lng": "73.13802",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Hasilpur",
+        "lat": "29.69221",
+        "lng": "72.54566",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Hattian Bala",
+        "lat": "34.1691",
+        "lng": "73.7432",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Hazro City",
+        "lat": "33.9099",
+        "lng": "72.49179",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Hingorja",
+        "lat": "27.21088",
+        "lng": "68.41598",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Islamkot",
+        "lat": "24.69904",
+        "lng": "70.17982",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Jahanian Shah",
+        "lat": "31.80541",
+        "lng": "72.2774",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jand",
+        "lat": "33.43304",
+        "lng": "72.01877",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jandiala Sher Khan",
+        "lat": "31.82098",
+        "lng": "73.91815",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jati",
+        "lat": "24.35492",
+        "lng": "68.26732",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Jatoi Shimali",
+        "lat": "29.51827",
+        "lng": "70.84474",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jauharabad",
+        "lat": "32.29016",
+        "lng": "72.28182",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Jiwani",
+        "lat": "25.04852",
+        "lng": "61.74573",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Johi",
+        "lat": "26.69225",
+        "lng": "67.61431",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "J\u0101m S\u0101hib",
+        "lat": "26.29583",
+        "lng": "68.62917",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kadhan",
+        "lat": "24.48041",
+        "lng": "68.98551",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kahror Pakka",
+        "lat": "29.6243",
+        "lng": "71.91437",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kakad Wari Dir Upper",
+        "lat": "34.99798",
+        "lng": "72.07295",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Kalaswala",
+        "lat": "32.20081",
+        "lng": "74.64858",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kalat",
+        "lat": "29.02663",
+        "lng": "66.59361",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Kaleke Mandi",
+        "lat": "31.97597",
+        "lng": "73.59999",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kalur Kot",
+        "lat": "32.15512",
+        "lng": "71.26631",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kamar Mushani",
+        "lat": "32.84318",
+        "lng": "71.36192",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kambar",
+        "lat": "27.58753",
+        "lng": "68.00066",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kamra",
+        "lat": "33.74698",
+        "lng": "73.51229",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kandiari",
+        "lat": "26.9155",
+        "lng": "68.52193",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kanganpur",
+        "lat": "30.76468",
+        "lng": "74.12286",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Karaundi",
+        "lat": "26.89709",
+        "lng": "68.40643",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kario Ghanwar",
+        "lat": "24.80817",
+        "lng": "68.60483",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Karor",
+        "lat": "31.2246",
+        "lng": "70.95153",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kashmor",
+        "lat": "28.4326",
+        "lng": "69.58364",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Keshupur",
+        "lat": "32.26",
+        "lng": "72.5",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Keti Bandar",
+        "lat": "24.14422",
+        "lng": "67.45094",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Khadan Khak",
+        "lat": "30.75236",
+        "lng": "67.71133",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Khadro",
+        "lat": "26.14713",
+        "lng": "68.71777",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Khairpur Mir's",
+        "lat": "27.52948",
+        "lng": "68.75915",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Khairpur Tamewah",
+        "lat": "29.58139",
+        "lng": "72.23804",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khalabat",
+        "lat": "34.05997",
+        "lng": "72.88963",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Khandowa",
+        "lat": "32.74255",
+        "lng": "72.73478",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khangah Dogran",
+        "lat": "31.83294",
+        "lng": "73.62213",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khangarh",
+        "lat": "29.91446",
+        "lng": "71.16067",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khanpur Mahar",
+        "lat": "27.84088",
+        "lng": "69.41302",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kharan",
+        "lat": "28.58459",
+        "lng": "65.41501",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Khewra",
+        "lat": "32.6491",
+        "lng": "73.01059",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khurrianwala",
+        "lat": "31.49936",
+        "lng": "73.26763",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khush\u0101b",
+        "lat": "32.29667",
+        "lng": "72.3525",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Khuzdar",
+        "lat": "27.81193",
+        "lng": "66.61096",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Kohlu",
+        "lat": "29.89651",
+        "lng": "69.25324",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Diji",
+        "lat": "27.34156",
+        "lng": "68.70821",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Ghulam Muhammad",
+        "lat": "32.33311",
+        "lng": "74.54694",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Malik Barkhurdar",
+        "lat": "30.20379",
+        "lng": "66.98723",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Mumin",
+        "lat": "32.18843",
+        "lng": "73.02987",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Radha Kishan",
+        "lat": "31.17068",
+        "lng": "74.10126",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Rajkour",
+        "lat": "32.41208",
+        "lng": "74.62855",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kot Sultan",
+        "lat": "30.7737",
+        "lng": "70.93125",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Kotli",
+        "lat": "33.51836",
+        "lng": "73.9022",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Kunri",
+        "lat": "25.17874",
+        "lng": "69.56572",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Lachi",
+        "lat": "33.38291",
+        "lng": "71.33733",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Lakhi",
+        "lat": "27.84884",
+        "lng": "68.69972",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Lakki",
+        "lat": "32.60724",
+        "lng": "70.91234",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Lala Musa",
+        "lat": "32.70138",
+        "lng": "73.95746",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Landi Kotal",
+        "lat": "34.0988",
+        "lng": "71.14108",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Liliani",
+        "lat": "32.20393",
+        "lng": "72.9512",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Loralai",
+        "lat": "30.37051",
+        "lng": "68.59795",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Mach",
+        "lat": "29.86371",
+        "lng": "67.33018",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Madeji",
+        "lat": "27.75314",
+        "lng": "68.45166",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Malakand",
+        "lat": "34.56561",
+        "lng": "71.93043",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Malakwal City",
+        "lat": "32.55492",
+        "lng": "73.2122",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mamu Kanjan",
+        "lat": "30.83044",
+        "lng": "72.79943",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mangla",
+        "lat": "31.89306",
+        "lng": "72.38167",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mankera",
+        "lat": "31.38771",
+        "lng": "71.44047",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mehmand Chak",
+        "lat": "32.78518",
+        "lng": "73.82306",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Mianke Mor",
+        "lat": "31.2024",
+        "lng": "73.94857",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Minchianabad",
+        "lat": "30.16356",
+        "lng": "73.56858",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Miran Shah",
+        "lat": "33.00059",
+        "lng": "70.07117",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Miro Khan",
+        "lat": "27.75985",
+        "lng": "68.09195",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Mirwah Gorchani",
+        "lat": "25.30981",
+        "lng": "69.05019",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Mithi",
+        "lat": "24.73701",
+        "lng": "69.79707",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Moza Shahwala",
+        "lat": "30.80563",
+        "lng": "70.84911",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Musa Khel Bazar",
+        "lat": "30.85944",
+        "lng": "69.82208",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Mustaf\u0101b\u0101d",
+        "lat": "30.89222",
+        "lng": "73.49889",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Muzaffar\u0101b\u0101d",
+        "lat": "34.37002",
+        "lng": "73.47082",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Nabisar",
+        "lat": "25.06717",
+        "lng": "69.6434",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Narang Mandi",
+        "lat": "31.90376",
+        "lng": "74.51587",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Naukot",
+        "lat": "24.85822",
+        "lng": "69.40153",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Naushahra Virkan",
+        "lat": "31.96258",
+        "lng": "73.97117",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Naushahro Firoz",
+        "lat": "26.8401",
+        "lng": "68.12265",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Nazir Town",
+        "lat": "33.30614",
+        "lng": "73.4833",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "New B\u0101d\u0101h",
+        "lat": "27.34167",
+        "lng": "68.03194",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Noorabad",
+        "lat": "34.25195",
+        "lng": "71.96656",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Nushki",
+        "lat": "29.55218",
+        "lng": "66.02288",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Ormara",
+        "lat": "25.2088",
+        "lng": "64.6357",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Pabbi",
+        "lat": "34.00968",
+        "lng": "71.79445",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Pad Idan",
+        "lat": "26.77455",
+        "lng": "68.30094",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Paharpur",
+        "lat": "32.10502",
+        "lng": "70.97055",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Panjgur",
+        "lat": "26.97186",
+        "lng": "64.09459",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Parachinar",
+        "lat": "33.89968",
+        "lng": "70.10012",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Pasni",
+        "lat": "25.26302",
+        "lng": "63.46921",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Phalia",
+        "lat": "32.43104",
+        "lng": "73.579",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Pind Dadan Khan",
+        "lat": "32.58662",
+        "lng": "73.04456",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Pir Jo Goth",
+        "lat": "27.59178",
+        "lng": "68.61848",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Pir Mahal",
+        "lat": "30.76663",
+        "lng": "72.43455",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Pithoro",
+        "lat": "25.51122",
+        "lng": "69.37803",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Qadirpur Ran",
+        "lat": "30.29184",
+        "lng": "71.67164",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Qila Abdullah",
+        "lat": "30.72803",
+        "lng": "66.66117",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Qila Saifullah",
+        "lat": "30.70077",
+        "lng": "68.35984",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Rajanpur",
+        "lat": "29.10408",
+        "lng": "70.32969",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Rajo Khanani",
+        "lat": "24.98391",
+        "lng": "68.8537",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Rasulnagar",
+        "lat": "32.32794",
+        "lng": "73.7804",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Ratodero",
+        "lat": "27.80227",
+        "lng": "68.28902",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Rawala Kot",
+        "lat": "33.85782",
+        "lng": "73.76043",
+        "state": "Azad Kashmir"
+    },
+    {
+        "country": "PK",
+        "name": "Renala Khurd",
+        "lat": "30.87878",
+        "lng": "73.59857",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Risalpur Cantonment",
+        "lat": "34.06048",
+        "lng": "71.99276",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Rojhan",
+        "lat": "28.68735",
+        "lng": "69.9535",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Rustam",
+        "lat": "27.96705",
+        "lng": "68.80386",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Saddiqabad",
+        "lat": "28.3091",
+        "lng": "70.12652",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Saidu Sharif",
+        "lat": "34.74655",
+        "lng": "72.35568",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Sakrand",
+        "lat": "26.13845",
+        "lng": "68.27444",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Samaro",
+        "lat": "25.28143",
+        "lng": "69.39623",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Sann",
+        "lat": "26.0403",
+        "lng": "68.13763",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Sarai Alamgir",
+        "lat": "32.90495",
+        "lng": "73.75518",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Sarai Naurang",
+        "lat": "32.82581",
+        "lng": "70.78107",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Sarai Sidhu",
+        "lat": "30.59476",
+        "lng": "71.9699",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Setharja Old",
+        "lat": "27.2127",
+        "lng": "68.46883",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Shabqadar",
+        "lat": "34.21599",
+        "lng": "71.5548",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Shahdad Kot",
+        "lat": "27.84726",
+        "lng": "67.90679",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Shahpur",
+        "lat": "32.2682",
+        "lng": "72.46884",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shahr Sultan",
+        "lat": "29.57517",
+        "lng": "71.02209",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Shingli Bala",
+        "lat": "34.67872",
+        "lng": "72.98491",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Shinpokh",
+        "lat": "34.32959",
+        "lng": "71.17852",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Sibi",
+        "lat": "29.54299",
+        "lng": "67.87726",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Sillanwali",
+        "lat": "31.82539",
+        "lng": "72.54064",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Sinjhoro",
+        "lat": "26.03008",
+        "lng": "68.80867",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Sobhodero",
+        "lat": "27.30475",
+        "lng": "68.39715",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Sohbatpur",
+        "lat": "28.52038",
+        "lng": "68.54298",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Sukheke Mandi",
+        "lat": "31.86541",
+        "lng": "73.50875",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Surab",
+        "lat": "28.49276",
+        "lng": "66.25999",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Surkhpur",
+        "lat": "32.71816",
+        "lng": "74.44773",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "S\u012bta Road",
+        "lat": "27.03333",
+        "lng": "67.85",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Talamba",
+        "lat": "30.52693",
+        "lng": "72.24079",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Tando Bago",
+        "lat": "24.78914",
+        "lng": "68.96535",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Tangi",
+        "lat": "34.3009",
+        "lng": "71.65238",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Tangwani",
+        "lat": "28.27886",
+        "lng": "68.9976",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Taunsa",
+        "lat": "30.70358",
+        "lng": "70.65054",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Tharu Shah",
+        "lat": "26.9423",
+        "lng": "68.11759",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Thul",
+        "lat": "28.2403",
+        "lng": "68.7755",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Timargara",
+        "lat": "34.82659",
+        "lng": "71.84423",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Turbat",
+        "lat": "26.00122",
+        "lng": "63.04849",
+        "state": "Balochistan"
+    },
+    {
+        "country": "PK",
+        "name": "Utmanzai",
+        "lat": "34.18775",
+        "lng": "71.76274",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Vihari",
+        "lat": "30.0445",
+        "lng": "72.3556",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Wana",
+        "lat": "32.29889",
+        "lng": "69.5725",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Warah",
+        "lat": "27.44805",
+        "lng": "67.79654",
+        "state": "Sindh"
+    },
+    {
+        "country": "PK",
+        "name": "Yazman",
+        "lat": "29.12122",
+        "lng": "71.74459",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Zahir Pir",
+        "lat": "28.81284",
+        "lng": "70.52341",
+        "state": "Punjab"
+    },
+    {
+        "country": "PK",
+        "name": "Zaida",
+        "lat": "34.0595",
+        "lng": "72.4669",
+        "state": "KPK"
+    },
+    {
+        "country": "PK",
+        "name": "Ziarat",
+        "lat": "30.38244",
+        "lng": "67.72562",
+        "state": "Balochistan"
+    }
+]

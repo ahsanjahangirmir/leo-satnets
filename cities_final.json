@@ -1,0 +1,62 @@
+[
+    {
+        "country": "PK",
+        "name": "Bannu",
+        "lat": "32.98527",
+        "lng": "70.60403"
+      },
+      {
+        "country": "PK",
+        "name": "Zhob",
+        "lat": "31.34082",
+        "lng": "69.4493"
+      },
+      {
+        "country": "PK",
+        "name": "Ziarat",
+        "lat": "30.38244",
+        "lng": "67.72562"
+      },
+      {
+        "country": "PK",
+        "name": "Mach",
+        "lat": "29.86371",
+        "lng": "67.33018"
+      },
+      {
+        "country": "PK",
+        "name": "Hangu",
+        "lat": "33.53198",
+        "lng": "71.0595"
+      },
+      {
+        "country": "PK",
+        "name": "Sibi",
+        "lat": "29.54299",
+        "lng": "67.87726"
+      },
+      {
+        "country": "PK",
+        "name": "Khuzdar",
+        "lat": "27.81193",
+        "lng": "66.61096"
+      },
+      {
+        "country": "PK",
+        "name": "Awaran",
+        "lat": "26.45677",
+        "lng": "65.23144"
+      },
+      {
+        "country": "PK",
+        "name": "Kharan",
+        "lat": "28.58459",
+        "lng": "65.41501"
+      },
+      {
+        "country": "PK",
+        "name": "Turbat",
+        "lat": "26.00122",
+        "lng": "63.04849"
+      }
+]
